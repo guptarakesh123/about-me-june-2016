@@ -2,6 +2,6 @@ branch2 contents
 
 something l1
 something l2
-something l3
-
+line3
+>>>>>>> branch2
 
