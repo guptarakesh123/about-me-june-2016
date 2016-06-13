@@ -1,1 +1,6 @@
 branch2 contents
+
+line1
+line2
+line3
+
